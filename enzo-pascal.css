@@ -5,13 +5,16 @@
 }
 
 .center {
-    text-align: center;        
+    text-align: center;
+    margin-bottom: -5px;        
 }
 
 .parte1 {
     margin-left: 80px;
     margin-top: 80px; 
 }
+
+
 
 .title {
     font-size: 48px;
@@ -57,4 +60,39 @@
     color: white;
     text-decoration-line: none;
     
+}
+
+.parte2 {
+    background-color: #00a78e;
+    color: white;
+    padding-left: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    line-height: 26px;
+}
+
+.text1 {
+    letter-spacing: 1.2pt;
+    margin-bottom: 26px;
+    line-height: 26px;
+}
+
+.projetos{
+    list-style: none;
+}
+
+.parte2 .subtitle1 {
+    color: white;
+    font-family: serif;
+    padding-bottom: 26px;
+    letter-spacing: 1pt;
+}
+
+.parte2 .subtitle2 {
+    color:white;
+    line-height: 26px;
+    font-family: serif;
+    padding-bottom: 0px;
+    font-weight: bold;
+    letter-spacing: 1pt;
 }
