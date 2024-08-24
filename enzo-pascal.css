@@ -99,11 +99,13 @@
     color:#293651;
     padding: 80px 80px;
 }
+    
 
 .parte3 .subtitle1 {
-    color:#293651;
     font-family: serif;
     letter-spacing: 1pt;
+    color:#293651;
+    padding-bottom: 15px;
     
 }
 
@@ -112,3 +114,23 @@
     height: 40px;
     width: 400px;
 }
+
+.text2 {
+    padding-top: 15px;
+}
+
+.rodape {
+    background-color: #293651;
+    color: #828a9c;
+    font-size: 14px;
+    padding: 80px 80px;
+}
+
+.rodape a {
+    color:#828a9c
+}
+
+.rodape a:hover {
+    color:#fff
+}
+
