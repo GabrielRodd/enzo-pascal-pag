@@ -65,9 +65,7 @@
 .parte2 {
     background-color: #00a78e;
     color: white;
-    padding-left: 80px;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding: 80px 80px;
     line-height: 26px;
 }
 
@@ -95,4 +93,22 @@
     padding-bottom: 0px;
     font-weight: bold;
     letter-spacing: 1pt;
+}
+
+.parte3 {
+    color:#293651;
+    padding: 80px 80px;
+}
+
+.parte3 .subtitle1 {
+    color:#293651;
+    font-family: serif;
+    letter-spacing: 1pt;
+    
+}
+
+.barra-progresso {
+    accent-color: #00a78e;
+    height: 40px;
+    width: 400px;
 }
